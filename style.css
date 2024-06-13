@@ -1,0 +1,133 @@
+html {
+    height: 100%;
+    width: 100%;
+     body {
+  
+  font-family: Arial, sans-serif;
+        background-color:  rgb(8, 0, 99);;
+        margin: 0;
+        padding: 0;
+    }
+    
+  
+  .colorful-div {
+    width: 25%;
+    height: 35px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: white;
+  
+  }
+  
+  .div1 {
+    background-color:  rgb(8, 0, 99);; 
+  }
+  
+  .div2 {
+    background-color:  rgb(8, 0, 99);; 
+  }
+  
+  .div3 {
+    background-color:  rgb(8, 0, 99);; 
+  }
+  
+  .div4 {
+    background-color:  rgb(8, 0, 99);; 
+  }
+  
+  .div5 {
+    background-color: rgb(8, 0, 99);
+  }
+  
+  .colorful-sub {
+    width: 50%;
+    height: 50px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: white;
+  }
+  
+  .sub1 {
+    background-color: rgb(8, 0, 99);; 
+  }
+
+  .sub2 {
+    background-color: rgb(8, 0, 99);; 
+  }
+  
+    .container {
+        max-width: 800px;
+        margin: 20px auto;
+        background-color: #404040;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .container2 {
+        max-width: 800px;
+        margin: 20px auto;
+        background-color: #404040;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+  
+  .header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(8, 0, 99);
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  
+  .borde {
+      max-width: 600px;
+      margin: 20px auto;
+      background-color: rgb(83, 95, 109);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+    h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+  
+  h4 {
+      text-align: center;
+      margin-bottom: 20px;
+  }
+  
+  
+  
+  
+    button {
+        padding: 5px 10px;
+        background-color:  rgb(8, 0, 99);;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+  
+    button:hover {
+        background-color: black;
+    }
+
+}
